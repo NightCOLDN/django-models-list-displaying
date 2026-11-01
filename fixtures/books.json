@@ -1,0 +1,92 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-09-03"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэлл",
+      "pub_date": "2018-09-07"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Скотный двор",
+      "author": "Джордж Оруэлл",
+      "pub_date": "2018-09-21"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "В память о прошлом земли",
+      "author": "Лю Цысинь",
+      "pub_date": "2018-09-21"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Преступление и наказание",
+      "author": "Ф.М. Достоевский",
+      "pub_date": "2018-10-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Мастер и Маргарита",
+      "author": "М.А. Булгаков",
+      "pub_date": "2018-10-15"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "Трудно быть богом",
+      "author": "А. и Б. Стругацкие",
+      "pub_date": "2018-10-15"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "Имя розы",
+      "author": "Умберто Эко",
+      "pub_date": "2018-11-02"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "name": "Марсианин",
+      "author": "Энди Вейер",
+      "pub_date": "2018-11-20"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "name": "Дюна",
+      "author": "Фрэнк Герберт",
+      "pub_date": "2018-12-05"
+    }
+  }
+]
